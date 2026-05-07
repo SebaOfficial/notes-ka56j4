@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://SebaOfficial.github.io/notes-ka56j4/sitemap.xml
